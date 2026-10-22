@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
