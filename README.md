@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0217-contains-duplicate) |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
