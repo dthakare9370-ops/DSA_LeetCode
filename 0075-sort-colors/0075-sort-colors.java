@@ -1,28 +1,22 @@
 class Solution {
     public void sortColors(int[] nums) {
-        int countOfZeros = 0;
-        int countOfOnes = 0;
-        int countOfTows = 0;
+        int n = nums.length;
+        int mid = 0, low = 0, high = n-1;
 
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]==0){
-                countOfZeros++;
-            }else if(nums[i]==1){
-                countOfOnes++;
+        while(mid<=high){
+            if(nums[mid]==0){
+                int temp = nums[mid];
+                nums[mid] = nums[low];
+                nums[low] = temp;
+                low++; 
+                mid++;
+            }else if(nums[mid]==1){
+                mid++;
             }else{
-                countOfTows++;
-            }
-        }
-        for(int i=0;i<nums.length;i++){
-            if(countOfZeros > 0){
-                nums[i] = 0;
-                countOfZeros--;
-            }else if(countOfOnes> 0 ){
-                nums[i] = 1;
-                countOfOnes--;
-            }else{
-                nums[i] = 2;
-                countOfTows--;
+                int temp = nums[mid];
+                nums[mid] = nums[high];
+                nums[high] = temp;
+                high--;
             }
         }
     }
