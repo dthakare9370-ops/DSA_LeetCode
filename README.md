@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0066-plus-one) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0189-rotate-array) |
@@ -96,12 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -126,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
