@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0217-contains-duplicate) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0189-rotate-array) |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
