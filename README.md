@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 ## String
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
