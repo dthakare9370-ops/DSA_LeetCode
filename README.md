@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -171,4 +173,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
