@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0496-next-greater-element-i) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
