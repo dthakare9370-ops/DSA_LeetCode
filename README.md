@@ -196,4 +196,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0595-big-countries) |
+| [1148-article-views-i](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
