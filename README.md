@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
