@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0048-rotate-image) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0075-sort-colors) |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
