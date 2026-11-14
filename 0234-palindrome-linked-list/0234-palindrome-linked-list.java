@@ -9,10 +9,7 @@
  * }
  */
 class Solution {
-    public static ListNode findMid(ListNode head){
-        if(head==null || head.next==null){
-            return head;
-        }
+    public ListNode findMid(ListNode head){
         ListNode slow = head;
         ListNode fast = head.next;
 
@@ -23,32 +20,30 @@ class Solution {
 
         return slow;
     }
-
     public boolean isPalindrome(ListNode head) {
         ListNode mid = findMid(head);
 
-        //Reverse the link list From middle position 
         ListNode curr = mid.next;
         ListNode prev = null;
 
-        while(curr!=null){
+        while(curr != null){
             ListNode next = curr.next;
             curr.next = prev;
             prev = curr;
             curr = next;
         }
-        
-        ListNode left = head;
-        ListNode right = prev;
 
-        while(left!=null && right!=null){
-            if(left.val != right.val){
+        ListNode first = head;
+        ListNode second = prev;
+
+        while(first != null && second != null){
+            if(first.val != second.val){
                 return false;
             }
-            left = left.next;
-            right = right.next;
-        }
 
+            first = first.next;
+            second = second.next;
+        }
         return true;
     }
 }
