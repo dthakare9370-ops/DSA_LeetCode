@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0217-contains-duplicate) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/dthakare9370-ops/DSA_LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
