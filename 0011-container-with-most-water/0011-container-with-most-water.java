@@ -1,18 +1,19 @@
 class Solution {
     public int maxArea(int[] height) {
-        
+
         int left = 0;
         int right = height.length - 1;
-
         int max = 0;
-        while(left<right){
+        while(left < right){
             int w = right - left;
-            int h = Math.min(height[left], height[right]);
+            int h = Math.min(height[left],height[right]);
 
-            int area = w * h;
-
-            max = Math.max(max,area);
-            if(height[left] < height[right]){
+            int area = w*h;
+            if(max<area){
+                max = area;
+            }
+            
+            if(height[left]<height[right]){
                 left++;
             }else{
                 right--;
